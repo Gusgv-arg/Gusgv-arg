@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **gusgvillafane@gmail.com**
 
-- ⚡ Fun fact **Like sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
