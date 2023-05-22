@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gustavo Gómez Villafañe</h1>
-<h3 align="center">A full stack web developer from Argentina</h3>
+<h3 align="center">A full stack web developer from Argentina recentley graduated at Henry's Bootcamp</h3>
 
-- 🔭 I’m jave just finished working on ** my Final Project in Henry´s bootcamp**  
+- 👯 I’m actually looking forward to collaborate on any proyect and keep reinforcing my code skills 
+- 🌱 Currently learning new technologies like bootstrap; always trying to complete myself as a professional web developer
+- 💬 Curious about blockchain technology
+- ⚡ Fun fact: I like tennis, football and boxing
 
-- 📫 How to reach me **gusgvillafane@gmail.com**
+- 📫 You can contact me by mail **gusgvillafane@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
