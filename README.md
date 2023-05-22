@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Gómez Villafañe</h1>
 <h3 align="center">A full stack web developer from Argentina</h3>
 
-- 🔭 I’m currently working on ** my Final Project in Henry´s bootcamp**
+- 🔭 I’m jave just finished working on ** my Final Project in Henry´s bootcamp**  
 
 - 📫 How to reach me **gusgvillafane@gmail.com**
 
