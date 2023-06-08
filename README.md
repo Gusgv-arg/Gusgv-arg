@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Gómez Villafañe</h1>
-<h3 align="center">A full stack web developer from Argentina recentley graduated at Henry's Bootcamp</h3>
+<h3 align="center">A full stack web developer from Argentina recently graduated at Henry's Bootcamp</h3>
 
 - 👯 I’m actually looking forward to collaborate on any proyect and keep reinforcing my code skills 
 - 🌱 Currently learning new technologies like bootstrap; always trying to complete myself as a professional web developer
