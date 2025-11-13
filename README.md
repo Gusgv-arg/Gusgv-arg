@@ -2,8 +2,8 @@
 <h3 align="center">A full stack web developer from Argentina recently graduated at Henry's Bootcamp</h3>
 
 - 👯 I’m actually looking forward to collaborate on any proyect and keep reinforcing my code skills 
-- 🌱 Currently learning new technologies like bootstrap; always trying to complete myself as a professional web developer
-- 💬 Curious about blockchain technology
+- 🌱 Currently learning new technologies; always trying to complete myself as a professional web developer
+- 💬 Curious about blockchain technology and AI
 - ⚡ Fun fact: I like tennis, football and boxing
 
 - 📫 You can contact me by mail **gusgvillafane@gmail.com**
